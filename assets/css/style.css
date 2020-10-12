@@ -1,0 +1,9 @@
+.black{
+    color: #fff;
+    font-family: "Work Sans", Poppins, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+}
